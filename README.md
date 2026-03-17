@@ -55,7 +55,7 @@ Most tools help you make money.
 
 ## 🎬 Demo Flow
 
-![ClawGuard AI Demo](./demo.png)
+![ClawGuard AI Demo](/Demo.png)
 1. User attempts to place a risky trade  
 2. ClawGuard AI detects high risk  
 3. Displays risk breakdown (liquidation, volatility, sentiment)  
