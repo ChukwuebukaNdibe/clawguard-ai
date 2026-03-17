@@ -101,15 +101,3 @@ To become the intelligent safety layer for crypto traders—helping millions tra
 ## 📌 Status
 
 🚧 Prototype / Hackathon Project  
-
----
-
-## 📽️ Demo
-
-👉 Add your demo video link here  
-
----
-
-## 🔗 Repository
-
-👉 Add your GitHub repo link here  
